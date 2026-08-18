@@ -122,7 +122,7 @@ la quadratura).
 - Raspberry Pi Pico (RP2040)
 - Mixer FST3235 (alimentato a 3.3 V)
 - Sintetizzatore Si5351 (LO in quadratura 0°/90°)
-- Filtro a quarzo a 20.4 MHz (banda ~7 kHz, terminazione 800 Ω)
+- Filtro a quarzo a 20.4 MHz (banda ~7 kHz, terminazione 800 Ω) o LC centrato a 20.4 Mhz
 - Componenti dei filtri RC (vedi sopra)
 - Microcontrollore host per il controllo I2C (es. Arduino Nano) + level shifter
 
