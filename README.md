@@ -66,7 +66,7 @@ quindi lo sketch è autosufficiente indipendentemente dalle impostazioni dell'ID
 
 ## Filtro RC di uscita (per ognuna delle 4 uscite)
 
-GPIO ──[330Ω]──┬──[220Ω]──┬──▶ FST3235
+GPIO ──[330Ω]──┬──[220Ω]──┬── > FST3235
                │          │
             [47nF]     [220nF] 
                │          │
